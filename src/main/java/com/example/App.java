@@ -5,3 +5,5 @@ public class App {
         System.out.println("Hello from Jenkins Maven Build!");
     }
 }
+
+//commit 2
